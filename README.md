@@ -46,4 +46,4 @@ Real-time Data Integration: Fetch data dynamically from APIs for up-to-date anal
 
 For questions or contributions, reach out to:
 
-Email: your.email@example.com
+Email: adityasubhaditya@gmail.com
